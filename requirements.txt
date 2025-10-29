@@ -1,0 +1,7 @@
+antlr4-python3-runtime==4.13.2
+datasets==2.18.0
+latex2sympy2_extended==1.10.2
+openai==1.99.9
+sympy==1.14.0
+timeout-function-decorator==2.0.0
+math-verify==0.8.0
