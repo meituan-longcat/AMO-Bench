@@ -1,6 +1,4 @@
-import time
 import copy
-import requests
 
 from math_verify import parse, verify
 from sympy import solve

@@ -3,9 +3,7 @@ import copy
 import os
 import argparse
 import datasets
-from sympy import arg
 from tqdm import tqdm
-import pdb
 
 from utils import (
     pred_extractor,
@@ -75,8 +73,7 @@ if __name__ == "__main__":
     if not os.path.exists("model_responses"):
         os.makedirs("model_responses")
 
-    # dataset = datasets.load_dataset("AMO-Bench")
-    dataset = datasets.load_dataset("json", data_files = {"test": "../amo_bench_open_source.jsonl"})        ############################
+    dataset = datasets.load_dataset("AMO-Bench")
     question_id_to_info = {}
     for item in dataset["test"]:
         question_id_to_info[item["question_id"]] = append_try_list(item)

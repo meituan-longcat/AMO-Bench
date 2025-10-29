@@ -1,6 +1,6 @@
 <div align=center><h1>
-    📐 AMO-Bench: Large Language Models<br>
-    Still Struggle in High School Math Competitions
+    📐 AMO-Bench: Large Language Models Still<br>
+    Struggle in High School Math Competitions
 </h1></div>
 
 <p align="center">
