@@ -48,12 +48,12 @@ cut_list = [
 ]
 
 remove_list = [
-    "\\bigl", "\bigl", "\\bigr", "\bigr",
-    "\\Bigl", "\Bigl", "\\Bigr", "\Bigr",
-    "\\biggl", "\biggl", "\\biggr", "\biggr",
-    "\\Biggl", "\Biggl", "\\Biggr", "\Biggr",
-    "\\bigg", "\bigg", "\\Bigg", "\Bigg", "\\big", "\big", "\\Big", "\Big", 
-    "\\left", "\left", "\\right", "\right",
+    "\\bigl", "\\bigr", 
+    "\\Bigl", "\\Bigr",
+    "\\biggl", "\\biggr",
+    "\\Biggl", "\\Biggr",
+    "\\bigg", "\\Bigg", "\\big", "\\Big",
+    "\\left", "\\right",
 ]
 replace_list = [
     ["‘", "'"],
