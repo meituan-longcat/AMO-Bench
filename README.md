@@ -108,7 +108,15 @@ python grading.py --response_file example.jsonl --only_parser True
 If you find our work helpful or relevant to your research, please kindly cite our paper:
 
 ```
-xxx
+@misc{an2025amobench,
+      title={AMO-Bench: Large Language Models Still Struggle in High School Math Competitions}, 
+      author={Shengnan An and Xunliang Cai and Xuezhi Cao and Xiaoyu Li and Yehao Lin and Junlin Liu and Xinxuan Lv and Dan Ma and Xuanlin Wang and Ziwen Wang and Shuang Zhou},
+      year={2025},
+      eprint={2510.26768},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.26768}, 
+}
 ```
 
 ## 🤗 Acknowledgement
