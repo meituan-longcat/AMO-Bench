@@ -95,7 +95,7 @@ python grading.py --response_file example.jsonl
 ```
 Evaluation results will be saved under the  `./grading_results/` directory.
 
-### Step 3 (Optional): Grade on AMO-Bench-P Subset
+#### Step 3 (Optional): Grade on AMO-Bench-P Subset
 
 For a quick evaluation using only the parser-based subset (39 problems), run:
 ```bash
