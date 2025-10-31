@@ -4,7 +4,7 @@
 </h1></div>
 
 <p align="center">
-  📃 <a href="xxx" target="_blank">Paper</a > • 🌐 <a href="https://amo-bench.github.io/" target="_blank">Project Page</a > • 🤗 <a href="https://huggingface.co/datasets/meituan-longcat/AMO-Bench" target="_blank">Dataset</a ><br>
+  📃 <a href="https://arxiv.org/abs/2510.26768" target="_blank">Paper</a > • 🌐 <a href="https://amo-bench.github.io/" target="_blank">Project Page</a > • 🤗 <a href="https://huggingface.co/datasets/meituan-longcat/AMO-Bench" target="_blank">Dataset</a ><br>
 </p >
 
 This is the official repo for the paper **AMO-Bench: Large Language Models Still Struggle in High School Math Competitions**.
