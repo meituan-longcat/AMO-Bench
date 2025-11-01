@@ -102,6 +102,12 @@ For a quick evaluation using only the parser-based subset (39 problems), run:
 python grading.py --response_file example.jsonl --only_parser True
 ```
 
+## Identified Issues
+Despite our best efforts to ensure the quality of the dataset, several issues may still exist.
+Here, we list the issues identified in the current version, which will be addressed in future releases.
+We welcome your feedback on any issues!
+1. Problem 26 appears to be effectively the same as an existing contest problem. Thanks to @applesilicon to point out this! [link](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/3)
+
 
 ## 🔎 Citation
 
