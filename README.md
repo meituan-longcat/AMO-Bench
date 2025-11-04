@@ -102,12 +102,14 @@ For a quick evaluation using only the parser-based subset (39 problems), run:
 python grading.py --response_file example.jsonl --only_parser True
 ```
 
-## Identified Issues
-Despite our best efforts to ensure the quality of the dataset, several issues may still exist.
-Here, we list the issues identified in the current version, which will be addressed in future releases.
-We welcome your feedback on any issues!
-1. Problem 26 appears to be effectively the same as an existing contest problem. Thanks to @applesilicon to point this out! [link](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/3)
-2. The problem statement for Problem 35 should be further clarified: (1) the five integers that sum to $k$ should be non-negative rather than positive, and (2) we also stipulate that 1 couldn't be replaced with five integers. Thanks to @applesilicon to point this out! [link](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4)
+## Discussions and Feedbacks
+Here we summarize the discussions and feedbacks on AMO-Bench from the open-source community.
+We will regularly update the dataset to address urgent data issues.
+
+We welcome any feedback you may have!
+1. Problem 26 appears to be effectively the same as an existing contest problem. Thanks to [@applesilicon](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/3) to point this out!
+2. The problem statement for Problem 35 should be further clarified: (1) the five integers that sum to $k$ should be non-negative rather than positive, and (2) we also stipulate that 1 couldn't be replaced with five integers. Thanks to the suggestions from [@applesilicon](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4)!
+3. Four problems involve complex numerical expressions (Problem 12, 13, 15 and 21). When tackling these problems, LLMs may struggle to perform accurate calculations without calling external tools. Thanks to the feedback from [@prnake](https://github.com/meituan-longcat/AMO-Bench/issues/1)!
 
 
 ## 🔎 Citation
