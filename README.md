@@ -111,9 +111,9 @@ Here we summarize the discussions and feedbacks on AMO-Bench from the open-sourc
 We will regularly update the dataset to address urgent data issues.
 
 We welcome any feedback you may have!
-1. Problem 26 appears to be effectively the same as an existing contest problem. Thanks to [@applesilicon](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/3) to point this out!
-2. The problem statement for Problem 35 should be further clarified: (1) the five integers that sum to $k$ should be **non-negative** rather than positive, and (2) we also stipulate that 1 couldn't be replaced with five integers. Additionally, for the strictly positive case in the original problem statement, the correct answer should be 7656 (see this [discussion](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4) for details). Thanks to the suggestions from [@applesilicon](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4)!
-3. Four problems involve complex numerical expressions (Problem 12, 13, 15 and 21). When tackling these problems, LLMs may struggle to perform accurate calculations without calling external tools. Thanks to the feedback from [@prnake](https://github.com/meituan-longcat/AMO-Bench/issues/1)!
+- Problem 26 appears to be effectively the same as an existing contest problem. Thanks to [@applesilicon](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/3) to point this out!
+- The problem statement for Problem 35 should be further clarified: (1) the five integers that sum to $k$ should be **non-negative** rather than positive, and (2) we also stipulate that 1 couldn't be replaced with five integers. Additionally, for the strictly positive case in the original problem statement, the correct answer should be 7656 (see this [discussion](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4) for details). Thanks to the suggestions from [@applesilicon](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4)!
+- Four problems involve complex numerical expressions (Problem 12, 13, 15 and 21). When tackling these problems, LLMs may struggle to perform accurate calculations without calling external tools. Thanks to the feedback from [@prnake](https://github.com/meituan-longcat/AMO-Bench/issues/1)!
 
 
 ## 🔎 Citation
