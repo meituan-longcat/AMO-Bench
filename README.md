@@ -19,6 +19,12 @@ This is the official repo for the paper **AMO-Bench: Large Language Models Still
 - 2025.11.05: The problem statement of **Problem 35** has been revised in <a href="https://huggingface.co/datasets/meituan-longcat/AMO-Bench" target="_blank">🤗 Huggingface Dataset</a >: (1) the five integers that sum to $k$ should be **non-negative** rather than positive, and (2) we also stipulate that 1 couldn't be replaced with five integers. Additionally, for the strictly positive case in the original problem statement, the correct answer should be 7656 (see this [discussion](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4) for details). Thanks to the feedback from [@applesilicon](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4)!
 - 2025.10.31: We release the dataset, evaluation code, and technical report of AMO-Bench.
 
+## 📊 Leaderboard
+
+<p align="center">
+    <img src="./figures/leaderboard.png" width="800">
+    <br>
+</p>
 
 ## 📖 Abstract
 
@@ -54,12 +60,6 @@ a detailed reasoning path written by human experts. These additional annotations
 solution transparency and could support further explorations on AMO-Bench, such as prompt
 engineering and error analysis.
 
-## 📊 Leaderboard
-
-<p align="center">
-    <img src="./figures/leaderboard.png" width="800">
-    <br>
-</p>
 
 ## 🛠️ Quick Start
 
