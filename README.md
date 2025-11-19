@@ -15,7 +15,7 @@ This is the official repo for the paper **AMO-Bench: Large Language Models Still
 </p>
 
 ## Updates
-- 2025.11.19: **Kimi-K2-Thinking achieves 56.0%, new SOTA on [Leaderboard](#-leaderboard)!**
+- 2025.11.19: **[Kimi-K2-Thinking](https://moonshotai.github.io/Kimi-K2/thinking.html) achieves 56.0%, new SOTA on [Leaderboard](#-leaderboard)!**
 - 2025.11.05: The problem statement of **Problem 35** has been revised in <a href="https://huggingface.co/datasets/meituan-longcat/AMO-Bench" target="_blank">🤗 Huggingface Dataset</a >: (1) the five integers that sum to $k$ should be **non-negative** rather than positive, and (2) we also stipulate that 1 couldn't be replaced with five integers. Additionally, for the strictly positive case in the original problem statement, the correct answer should be 7656 (see this [discussion](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4) for details). Thanks to the feedback from [@applesilicon](https://huggingface.co/datasets/meituan-longcat/AMO-Bench/discussions/4)!
 - 2025.10.31: We release the dataset, evaluation code, and technical report of AMO-Bench.
 
