@@ -9,10 +9,6 @@
 
 This is the official repo for the paper **AMO-Bench: Large Language Models Still Struggle in High School Math Competitions**.
 
-<p align="center">
-    <img src="./figures/cover_fig.png" width="800">
-    <br>
-</p>
 
 ## Updates
 - 2025.11.19: **[Kimi-K2-Thinking](https://moonshotai.github.io/Kimi-K2/thinking.html) achieves 56.0%, new SOTA on [Leaderboard](#-leaderboard)!**
@@ -35,6 +31,11 @@ reasoning capabilities of large language models (LLMs).
 However, many existing math competitions are becoming less effective for assessing top-tier LLMs due to performance saturation (e.g., AIME24/25).
 To address this, AMO-Bench introduces more rigorous challenges by ensuring all 50 problems are (1) cross-validated by experts to meet at least the International Mathematical Olympiad (IMO) difficulty standards, and (2) entirely original problems to prevent potential performance leakages from data memorization.
 Moreover, each problem in AMO-Bench requires only a final answer rather than a proof, enabling automatic and robust grading for evaluation.
+
+<p align="center">
+    <img src="./figures/cover_fig.png" width="800">
+    <br>
+</p>
 
 ## ⭐ Key Features
 
