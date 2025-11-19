@@ -61,10 +61,6 @@ engineering and error analysis.
     <br>
 </p>
 
-Experimental results across 26 LLMs on
-AMO-Bench show that even the best-performing model achieves only 52.4% accuracy on
-AMO-Bench, with most LLMs scoring below 40%. 
-
 ## 🛠️ Quick Start
 
 ### Installation
