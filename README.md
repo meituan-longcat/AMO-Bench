@@ -20,7 +20,9 @@ This is the official repo for the paper **AMO-Bench: Large Language Models Still
 
 <p align="center">
     <img src="./figures/leaderboard.png" width="800">
-    <br>
+</p>
+<p align="center">
+    <img src="./figures/acc_vs_len.png" width="800">
 </p>
 
 ## 📖 Abstract
