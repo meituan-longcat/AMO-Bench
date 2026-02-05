@@ -11,6 +11,7 @@ This is the official repo for the paper **AMO-Bench: Large Language Models Still
 
 
 ## Updates
+- 2026.02.05: Leaderboard Update: **[Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking) achieves a new SOTA with 65.1%, while [GLM-4.7](https://z.ai/blog/glm-4.7) sets a new open-source record at 62.4%!** 
 - 2025.12.01: We have added [Token Efficiency](#-token-efficiency) showing the number of output tokens used by models in the leaderboard. **[Gemini 3 Pro](https://deepmind.google/models/gemini/pro/) achieves the highest token efficiency among top-performance models!**
 - 2025.11.24: **[Gemini 3 Pro](https://deepmind.google/models/gemini/pro/) achieves 63.1%, setting a new SOTA and breaking 60% for the first time!** We have updated the [Leaderboard](#-leaderboard) with the results of Gemini 3 Pro and [Qwen3-Max-Thinking (Preview)](https://qwen.ai/blog?id=qwen3-max).
 - 2025.11.19: [Kimi-K2-Thinking](https://moonshotai.github.io/Kimi-K2/thinking.html) achieves 56.0%, new SOTA on [Leaderboard](#-leaderboard)!
@@ -20,13 +21,13 @@ This is the official repo for the paper **AMO-Bench: Large Language Models Still
 ## 📊 Leaderboard
 
 <p align="center">
-    <img src="./figures/leaderboard.png" width="800">
+    <img src="./figures/leaderboard_20260205.png" width="800">
 </p>
 
 ## 📈 Token Efficiency
 
 <p align="center">
-    <img src="./figures/acc_vs_len.png" width="800">
+    <img src="./figures/acc_vs_len_20260205.png" width="800">
 </p>
 
 ## 📖 Abstract
